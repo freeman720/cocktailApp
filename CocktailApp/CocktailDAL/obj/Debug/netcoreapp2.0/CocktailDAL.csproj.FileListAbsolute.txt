@@ -1,0 +1,9 @@
+E:\dev\CocktailApp\CocktailDAL\bin\Debug\netcoreapp2.0\CocktailDAL.deps.json
+E:\dev\CocktailApp\CocktailDAL\bin\Debug\netcoreapp2.0\CocktailDAL.dll
+E:\dev\CocktailApp\CocktailDAL\obj\Debug\netcoreapp2.0\CocktailDAL.csproj.CoreCompileInputs.cache
+E:\dev\CocktailApp\CocktailDAL\obj\Debug\netcoreapp2.0\CocktailDAL.AssemblyInfoInputs.cache
+E:\dev\CocktailApp\CocktailDAL\obj\Debug\netcoreapp2.0\CocktailDAL.AssemblyInfo.cs
+E:\dev\CocktailApp\CocktailDAL\bin\Debug\netcoreapp2.0\CocktailDAL.pdb
+E:\dev\CocktailApp\CocktailDAL\obj\Debug\netcoreapp2.0\CocktailDAL.dll
+E:\dev\CocktailApp\CocktailDAL\obj\Debug\netcoreapp2.0\CocktailDAL.pdb
+E:\dev\CocktailApp\CocktailDAL\obj\Debug\netcoreapp2.0\CocktailDAL.csprojAssemblyReference.cache
